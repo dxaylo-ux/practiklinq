@@ -1,0 +1,14 @@
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\bin\Debug\net10.0\hmwork1.exe
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\bin\Debug\net10.0\hmwork1.deps.json
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\bin\Debug\net10.0\hmwork1.runtimeconfig.json
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\bin\Debug\net10.0\hmwork1.dll
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\bin\Debug\net10.0\hmwork1.pdb
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\hmwork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\hmwork1.AssemblyInfoInputs.cache
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\hmwork1.AssemblyInfo.cs
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\hmwork1.csproj.CoreCompileInputs.cache
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\hmwork1.dll
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\refint\hmwork1.dll
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\hmwork1.pdb
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\hmwork1.genruntimeconfig.cache
+C:\Users\BEHRUZ\Desktop\dotnet 4\practik\obj\Debug\net10.0\ref\hmwork1.dll
